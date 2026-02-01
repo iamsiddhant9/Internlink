@@ -1,0 +1,22 @@
+ :root {
+           
+  --bg-main: #dee0e7;          /* app background */
+  --bg-card: #e5e5e5;          /* cards / forms */
+  --bg-dark: #14213d;          /* navbar / headers */
+
+  /* Accent */
+  --accent: #fca311;           /* buttons, highlights */
+  --accent-hover: #e59400;
+
+  /* Text */
+  --text-primary: #0b132b;     /* main text */
+  --text-secondary: #4a4a4a;   /* labels, hints */
+  --text-inverse: #ffffff;     /* text on dark bg */
+
+  /* Utility */
+  --border-color: #c7c7c7;
+  --shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+             height: 100%;
+             margin: 0;
+             padding: 0%;
+        }
